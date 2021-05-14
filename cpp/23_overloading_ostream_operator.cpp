@@ -34,6 +34,3 @@ int main() {
     cout << p << " " << event << endl;
     return 0;
 }
-
-
-

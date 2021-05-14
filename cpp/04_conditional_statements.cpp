@@ -10,8 +10,8 @@ int main()
     cin >> n;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
-	// Enter your code here.
-	// --------------------------------------------------------- // 
+    // Enter your code here.
+    // --------------------------------------------------------- // 
 	string numbers[9] = {
 		"one", 
 		"two",
@@ -28,6 +28,7 @@ int main()
         cout << numbers[n-1] << endl;
     else
         cout << "Greater than 9" << endl;
+    // --------------------------------------------------------- // 
 
     return 0;
 }

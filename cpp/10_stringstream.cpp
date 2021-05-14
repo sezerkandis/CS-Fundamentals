@@ -6,8 +6,8 @@
 using namespace std;
 
 vector<int> parseInts(string str) {
-	// Enter your code here.
-	// --------------------------------------------------------- //    
+    // Enter your code here.
+    // --------------------------------------------------------- //    
     stringstream ss(str);
     vector<int> result;
     string token;
@@ -17,7 +17,7 @@ vector<int> parseInts(string str) {
     }
 
     return result;
-	// --------------------------------------------------------- // 
+    // --------------------------------------------------------- // 
 }
 
 int main() {

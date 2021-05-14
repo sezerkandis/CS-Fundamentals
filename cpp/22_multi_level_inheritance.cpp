@@ -31,8 +31,6 @@ public:
 };
 // --------------------------------------------------------- //
 
-//Write your code here.
-
 int main(){
   
     Equilateral eqr;

@@ -35,5 +35,4 @@ int main(){
 	int ans = mx - mn;
 	cout << toStr(Result =) <<' '<< ans;
 	return 0;
-
 }
