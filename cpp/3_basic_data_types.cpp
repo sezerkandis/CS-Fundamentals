@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
