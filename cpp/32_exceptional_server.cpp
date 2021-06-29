@@ -38,18 +38,18 @@ int main() {
 
 		// Enter your code here.
 		// --------------------------------------------------------- // 
-        try {
-            cout << Server::compute(A, B) << endl;
-        } 
-        catch (std::bad_alloc&) {
-            cout << "Not enough memory" << endl;
-        }
-        catch (exception& ex) {
-            cout << "Exception: " << ex.what() << endl;
-        }
-        catch(...) {
-            cout << "Other Exception" << endl;
-        }
+		try {
+		    cout << Server::compute(A, B) << endl;
+		} 
+		catch (std::bad_alloc&) {
+		    cout << "Not enough memory" << endl;
+		}
+		catch (exception& ex) {
+		    cout << "Exception: " << ex.what() << endl;
+		}
+		catch(...) {
+		    cout << "Other Exception" << endl;
+		}
 		// --------------------------------------------------------- // 
 	}
 	cout << Server::getLoad() << endl;
