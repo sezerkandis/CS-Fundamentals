@@ -6,8 +6,8 @@
 using namespace std;
 
 void printKMax(int arr[], int n, int k){
-	// Enter your code here.
-	// --------------------------------------------------------- // 
+    // Enter your code here.
+    // --------------------------------------------------------- // 
     deque<int> q;
     for(int i = 0; i < n; i++)
     {
@@ -36,7 +36,7 @@ void printKMax(int arr[], int n, int k){
         std::cout << max << " "; 
     }
     std::cout << std::endl; */
-	// --------------------------------------------------------- // 
+    // --------------------------------------------------------- // 
 }
 
 int main(){
