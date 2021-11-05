@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/attending-workshops/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/attending-workshops/problem
 
 #include<bits/stdc++.h>
 #include<bits/stdc++.h>

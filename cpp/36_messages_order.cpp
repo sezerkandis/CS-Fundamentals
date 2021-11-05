@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/messages-order/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/messages-order/problem
 
 #include <iostream>
 #include <algorithm>

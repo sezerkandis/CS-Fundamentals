@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/hotel-prices/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/hotel-prices/problem
 
 #include <iostream>
 #include <vector>
