@@ -78,7 +78,7 @@ void counterspell(Spell *spell) {
         t->revealThunderpower();
     }
     else {
-       string scroll_name = spell->revealScrollName();
+        string scroll_name = spell->revealScrollName();
         string journal = SpellJournal::read();
         size_t s_size = scroll_name.size();
         size_t j_size = journal.size();
