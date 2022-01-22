@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/magic-spells/
+// https://www.hackerrank.com/challenges/magic-spells/
 
 #include <iostream>
 #include <vector>
