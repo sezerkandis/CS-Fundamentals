@@ -17,7 +17,7 @@ string rtrim(const string &);
  */
 
 // Enter your code here.
-// --------------------------------------------------------- // 
+// --------------------------------------------------------- //
 vector<string> weightedUniformStrings(string s, vector<int> queries) {    
     std::string alphabet = "abcdefghijklmnopqrstuvwxyz";
     std::unordered_map<char, unsigned int> chars;
