@@ -14,8 +14,4 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sezerkandis/Hackerrank?color=%23ff9900)
 ![Stars Badge](https://img.shields.io/github/stars/sezerkandis/Hackerrank)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sezerkandis/Hackerrank)
-	   	
-
-[![Sezer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sezerkandis&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
