@@ -12,9 +12,9 @@
 
 <p align="center">
 	<a
-![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/Hackerrank) 
+![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/Hackerrank)  </a>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sezerkandis/Hackerrank?color=%23ff9900)
 ![Stars Badge](https://img.shields.io/github/stars/sezerkandis/Hackerrank)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sezerkandis/Hackerrank)
-	   	</a>
+	   	
 </p>
