@@ -12,10 +12,10 @@
 
 
 <p align="center">
-	<img src="![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/Hackerrank)">
-	<br/>
+	![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/Hackerrank)
+	
 	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript/Ruby-blue.svg">
-	<br/>
+	
 	<img src="https://img.shields.io/badge/Latest%20Update-08/17/2019-brightgreen.svg">
 </p>
 
