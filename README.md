@@ -9,13 +9,15 @@
 <p align="center">
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/sezerkandis"> sezerkandis </a>
 </p>
-<p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-588-brightgreen.svg">
-	<br/>
-	<img src="https://img.shields.io/badge/Language-C/C++/Java/Python3/Bash/JavaScript/Ruby-blue.svg">
-	<br/>
-	<img src="https://img.shields.io/badge/Latest%20Update-08/17/2019-brightgreen.svg">
-</p>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Hackerrank-Problem-Solving) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Hackerrank-Problem-Solving?color=%23ff9900)
+![License Badge](https://img.shields.io/github/license/Anmol53/Hackerrank-Problem-Solving)
+![Forks Badge](https://img.shields.io/github/forks/Anmol53/Hackerrank-Problem-Solving)
+![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
+![Languages](https://img.shields.io/badge/languages-C%2C%20Java%2C%20Javascript-yellow.svg)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Anmol53/Hackerrank-Problem-Solving)
+[![GitHub followers](https://img.shields.io/github/followers/Anmol53?label=Follow&style=social)](https://github.com/Anmol53?tab=followers)
 
 
 
