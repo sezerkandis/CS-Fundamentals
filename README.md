@@ -4,22 +4,15 @@
 	</a>
 </p>
 <p align="center">
-    Problem solutions of HackerRank.
+    Solutions of HackerRank Problems.
 </p>
 <p align="center">
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/sezerkandis"> sezerkandis </a>
 </p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Hackerrank-Problem-Solving) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Hackerrank-Problem-Solving?color=%23ff9900)
-![License Badge](https://img.shields.io/github/license/Anmol53/Hackerrank-Problem-Solving)
-![Forks Badge](https://img.shields.io/github/forks/Anmol53/Hackerrank-Problem-Solving)
-![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
-![Languages](https://img.shields.io/badge/languages-C%2C%20Java%2C%20Javascript-yellow.svg)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Anmol53/Hackerrank-Problem-Solving)
-[![GitHub followers](https://img.shields.io/github/followers/Anmol53?label=Follow&style=social)](https://github.com/Anmol53?tab=followers)
-
-
-
-# hackerrank profile link
-  https://www.hackerrank.com/sezerkandis
+![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/Hackerrank-Problem-Solving) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sezerkandis/Hackerrank-Problem-Solving?color=%23ff9900)
+![License Badge](https://img.shields.io/github/license/sezerkandis/Hackerrank-Problem-Solving)
+![Stars Badge](https://img.shields.io/github/stars/sezerkandis/Hackerrank-Problem-Solving)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sezerkandis/Hackerrank-Problem-Solving)
+[![GitHub followers](https://img.shields.io/github/followers/sezerkandis?label=Follow&style=social)](https://github.com/sezerkandis?tab=followers)
