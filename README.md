@@ -18,5 +18,6 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sezerkandis/Hackerrank)
 
 </div>
-	[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
