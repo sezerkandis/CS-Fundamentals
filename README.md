@@ -10,6 +10,8 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/sezerkandis"> sezerkandis </a>
 </p>
 
+[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <div align="center">
 	
 ![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/Hackerrank)
@@ -18,8 +20,4 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sezerkandis/Hackerrank)
 
 </div>
-
-<p align="center">
-[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-</p>
 
