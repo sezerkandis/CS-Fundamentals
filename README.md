@@ -10,7 +10,6 @@
 	You can follow me on HackerRank at <a href="https://www.hackerrank.com/sezerkandis"> sezerkandis </a>
 </p>
 
-[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <div align="center">
 	
@@ -21,3 +20,10 @@
 
 </div>
 
+
+<div align="center">
+
+[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+	
+</div>
