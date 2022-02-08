@@ -12,7 +12,6 @@
 
 
 <div align="center">
-	
 ![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/Hackerrank)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sezerkandis/Hackerrank?color=%23ff9900)
 ![Stars Badge](https://img.shields.io/github/stars/sezerkandis/Hackerrank)
@@ -22,7 +21,6 @@
 
 
 <div align="center">
-
 [![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 	
