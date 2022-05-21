@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/virtual-functions/problem
+// https://www.hackerrank.com/challenges/virtual-functions/
 
 #include <cmath>
 #include <cstdio>

@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/inheritance-introduction/problem
+// https://www.hackerrank.com/challenges/inheritance-introduction/
 
 #include <cmath>
 #include <cstdio>

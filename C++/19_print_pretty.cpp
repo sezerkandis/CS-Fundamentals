@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/prettyprint/problem
+// https://www.hackerrank.com/challenges/prettyprint/
 
 #include <iostream>
 #include <iomanip> 

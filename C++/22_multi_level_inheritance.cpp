@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
+// https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/
 
 #include <cmath>
 #include <cstdio>

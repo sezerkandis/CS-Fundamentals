@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/classes-objects/problem
+// https://www.hackerrank.com/challenges/classes-objects/
 
 #include <cmath>
 #include <cstdio>

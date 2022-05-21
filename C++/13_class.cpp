@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/c-tutorial-class/problem
+// https://www.hackerrank.com/challenges/c-tutorial-class/
 
 #include <iostream>
 #include <sstream>

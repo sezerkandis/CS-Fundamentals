@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/c-tutorial-struct/problem
+// https://www.hackerrank.com/challenges/c-tutorial-struct/
 
 #include <cmath>
 #include <cstdio>

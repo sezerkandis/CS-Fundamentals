@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/deque-stl/problem
+// https://www.hackerrank.com/challenges/deque-stl/
 
 #include <iostream>
 #include <deque> 

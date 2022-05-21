@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
+// https://www.hackerrank.com/challenges/c-tutorial-stringstream/
 
 #include <sstream>
 #include <vector>

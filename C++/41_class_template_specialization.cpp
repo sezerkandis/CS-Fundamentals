@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/cpp-class-template-specialization
+// https://www.hackerrank.com/challenges/cpp-class-template-specialization/
 
 #include <iostream>
 using namespace std;

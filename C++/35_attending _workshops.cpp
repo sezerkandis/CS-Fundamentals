@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/attending-workshops/problem
+// https://www.hackerrank.com/challenges/attending-workshops/
 
 #include<bits/stdc++.h>
 #include<bits/stdc++.h>

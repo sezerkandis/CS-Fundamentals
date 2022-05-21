@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/rectangle-area/problem
+// https://www.hackerrank.com/challenges/rectangle-area/
 
 #include <iostream>
 using namespace std;

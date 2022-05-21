@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+// https://www.hackerrank.com/challenges/c-tutorial-for-loop/
 
 #include <iostream>
 #include <cstdio>

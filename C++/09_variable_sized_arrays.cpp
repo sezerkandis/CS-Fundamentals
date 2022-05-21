@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/variable-sized-arrays/problem
+// https://www.hackerrank.com/challenges/variable-sized-arrays/
 
 #include <cmath>
 #include <cstdio>

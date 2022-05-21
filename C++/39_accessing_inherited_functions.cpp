@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/accessing-inherited-functions/problem
+// https://www.hackerrank.com/challenges/accessing-inherited-functions/
 
 #include<iostream>
 

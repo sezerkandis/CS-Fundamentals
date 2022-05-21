@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/bitset-1/problem
+// https://www.hackerrank.com/challenges/bitset-1/
 
 ##include <cmath>
 #include <cstdio>

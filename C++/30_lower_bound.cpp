@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/cpp-lower-bound/problem
+// https://www.hackerrank.com/challenges/cpp-lower-bound/
 
 #include <cmath>
 #include <cstdio>

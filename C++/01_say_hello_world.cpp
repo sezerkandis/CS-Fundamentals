@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/cpp-hello-world/problem
+// https://www.hackerrank.com/challenges/cpp-hello-world/
 
 #include <iostream>
 #include <cstdio>

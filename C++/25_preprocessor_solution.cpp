@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/preprocessor-solution/problem
+// https://www.hackerrank.com/challenges/preprocessor-solution/
 
 // Enter your code here.
 // --------------------------------------------------------- //

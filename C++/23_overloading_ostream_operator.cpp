@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/overloading-ostream-operator/problem
+// https://www.hackerrank.com/challenges/overloading-ostream-operator/
 
 #include <iostream>
 

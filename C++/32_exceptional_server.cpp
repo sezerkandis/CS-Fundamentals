@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/exceptional-server/problem
+// https://www.hackerrank.com/challenges/exceptional-server/
 
 #include <iostream>
 #include <exception>

@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/messages-order/problem
+// https://www.hackerrank.com/challenges/messages-order/
 
 #include <iostream>
 #include <algorithm>

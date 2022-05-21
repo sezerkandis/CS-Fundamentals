@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/vector-sort/problem
+// https://www.hackerrank.com/challenges/vector-sort/
 
 #include <cmath>
 #include <cstdio>

@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/box-it/problem
+// https://www.hackerrank.com/challenges/box-it/
 
 #include<bits/stdc++.h>
 

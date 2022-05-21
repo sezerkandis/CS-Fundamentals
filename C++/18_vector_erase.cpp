@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/vector-erase/problem
+// https://www.hackerrank.com/challenges/vector-erase/
 
 #include <cmath>
 #include <cstdio>
