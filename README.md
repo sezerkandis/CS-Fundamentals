@@ -23,6 +23,6 @@
 
 <div align="center">
 	
-[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 	
 </div>
