@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://www.hackerrank.com/sezerkandis">
-		<img src="https://drive.google.com/file/d/1Le2a372T8vzFGbn3mlcfhh17uut3BtG0/view" width="400" height="90">
+		<img src="https://drive.google.com/uc?export=view&id=1Le2a372T8vzFGbn3mlcfhh17uut3BtG0" width="400" height="90">
 	</a>
 </p>
 <p align="center">
