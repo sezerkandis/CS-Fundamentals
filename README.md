@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://www.hackerrank.com/sezerkandis">
-		<img src="http://i.imgur.com/skWiOqm.png" width="400" height="90">
+		<img src="https://drive.google.com/uc?export=view&id=1Le2a372T8vzFGbn3mlcfhh17uut3BtG0" width="400" height="90">
 	</a>
 </p>
 <p align="center">
@@ -23,6 +23,6 @@
 
 <div align="center">
 	
-[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Sezer's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerkandis&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000)](https://github.com/DenverCoder1/github-readme-streak-stats)
 	
 </div>
