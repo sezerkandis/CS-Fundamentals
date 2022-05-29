@@ -13,10 +13,10 @@
 
 <div align="center">
 	
-![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/data_structures_and_algorithms)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sezerkandis/data_structures_and_algorithms?color=%23ff9900)
-![Stars Badge](https://img.shields.io/github/stars/sezerkandis/data_structures_and_algorithms)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sezerkandis/data_structures_and_algorithms)
+![GitHub last commit](https://img.shields.io/github/last-commit/sezerkandis/CS-Fundamentals/tree/master/algorithms/practises/HackerRank)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sezerkandis/CS-Fundamentals/tree/master/algorithms/practises/HackerRank?color=%23ff9900)
+![Stars Badge](https://img.shields.io/github/stars/sezerkandis/CS-Fundamentals/tree/master/algorithms/practises/HackerRank)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sezerkandis/CS-Fundamentals/tree/master/algorithms/practises/HackerRank)
 
 </div>
 
