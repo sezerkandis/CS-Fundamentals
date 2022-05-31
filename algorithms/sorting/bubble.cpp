@@ -1,3 +1,7 @@
+// USEFUL LINKS
+// https://www.toptal.com/developers/sorting-algorithms/bubble-sort
+// https://www.geeksforgeeks.org/bubble-sort/
+
 #include <iostream>
 #include <vector>
 
